@@ -1,0 +1,11 @@
+*.swp
+*.swo
+*.swn
+*~
+*.class
+*.html
+*.jar
+build/**/*
+dist/**/*
+res/**/*
+*#

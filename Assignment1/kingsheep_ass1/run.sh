@@ -1,0 +1,1 @@
+python kingsheep.py -p1m greedy_player -p1n "GreedyPlayer" -p2m greedy_player -p2n "GreedyPlayer" -g resources/test.map
